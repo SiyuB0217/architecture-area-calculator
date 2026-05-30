@@ -20,5 +20,5 @@ A command-line Python tool that calculates and categorizes room areas for archit
 python architecture_area_calculator.py
 
 ## Why I Built This
-I built this project to connect my architecture background with my interest in software development.
-In architecture, tracking room areas and program requirements can become repetitive, so this project explores how Python can simplify a common design workflow.
+
+I built this project to connect my architecture background with my interest in software development. In architecture, tracking room areas and program requirements can become repetitive, so this project explores how Python can simplify a common design workflow.
